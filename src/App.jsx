@@ -148,6 +148,7 @@ function App() {
       gsap.to('.hero-orbit-a', { rotate: 360, duration: 45, repeat: -1, ease: 'none' });
       gsap.to('.hero-orbit-b', { rotate: -360, duration: 62, repeat: -1, ease: 'none' });
       gsap.to('.hero-spark', { y: -15, x: 8, duration: 2.8, yoyo: true, repeat: -1, ease: 'sine.inOut' });
+      gsap.to('.marquee-track', { xPercent: -50, duration: 34, repeat: -1, ease: 'none' });
 
       gsap.utils.toArray('.section-index').forEach((el) => {
         gsap.from(el, {
