@@ -7,9 +7,9 @@ import { ArrowDownRight, ArrowUpRight, ArrowRight, Menu, X, Github, Linkedin, Ma
 gsap.registerPlugin(ScrollTrigger);
 
 const photos = [
-  'https://pixabay.com/images/download/x-2553537_1920.jpg',
-  'https://pixabay.com/images/download/x-7459755_1920.jpg',
-  'https://pixabay.com/images/download/x-7934916_1920.jpg'
+  'https://i.ibb.co/zTPY8sXp/jdpereiro-office-space-1744805.jpg',
+  'https://i.ibb.co/m5GhB3Bs/pexels-chairs-2181951.jpg',
+  'https://i.ibb.co/nqw59ZcJ/pexels-chairs-2181960.jpg'
 ];
 
 const projects = [
